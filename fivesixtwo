@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="FiveSixTwo Agency Website | Stephanie Froehner">
+    <meta name="author" content="Stephanie Froehner">
+    <meta name="keywords" content="Design, Interaction Design, Interactive Design, Responsive Web Design, Mobile Design, Stephanie, Froehner, UX/UI, GIF, iOS, Android, Portfolio, Designer">
+
+    <title>FIVESIXTWO, INC. AGENCY WEBSITE</title>
+
+    <link href="favicon.ico" rel="shortcut icon">
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel="stylesheet" type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,400italic,700' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    <!-- Hotjar Tracking Code for www.stephaniefroehner.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:71303,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Stephanie Froehner [ frey &middot; ner ]</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">Let's solve problems and make cool stuff.</div>
+                <div class="intro-lead-in">product design, teamwork, performance!</div>
+                <a href="#about" class="page-scroll btn btn-xl">Contact</a>            
+            </div>
+        </div>
+    </header>
+
+
+    
+
+
+
+        <div class="modal-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>FiveSixTwo, Inc. Agency Website</h2>
+                                <p class="item-intro text-muted">"Google Design Sprint"</p>
+
+                                <p>This <a href="http://www.fivesixtwo.com/" targe="blank">website</a>, still in beta, is my company’s first attempt at an adapted <a href="http://www.gv.com/sprint/" target="blank">Google Design Sprint</a>. 
+                                </p>
+
+                            <h3>Day 1: Map out the Problem and Choose a Focus</h3>
+                                <p>My CEO and I discussed long-term goals for the company's website and chose our target.</p>
+                                    
+                                <ol>
+                                    <li>Target: Get more clients</li>
+                                    <li>Focus: Client makes contact (fills out the form or makes a phone call).</li>
+                                </ol>
+
+                            <h3>Day 2: Rapid Sketching Solutions on Paper</h3>
+                                <p>I spent the next phase sketching different ideas. </p>
+                                <p>We decided to explore the following:</p>
+                                <ul>
+                                    <li>How fast can we generate leads (make contact)?</li>
+                                    <li>What should be the website's point of view? What will get more quality leads?</li>
+                                    <ul>
+                                        <li>Partnership - What are they looking for?</li>
+                                        <li>Our process/our values</li>
+                                        <li>Products/technology expertise</li>
+                                    </ul>
+                                </ul>
+
+                            <h3>Day3: Storyboard and Pick Solutions</h3>
+                                <p>We narrowed down the sketches to 3 different ideas. </p>
+                                <ol>
+                                    <li><h4>Prototype 1: Experimental Form</h4></li>
+                                    <ul>
+                                        <li>A large conversational form instead of a hero image</li>
+                                        <li>Quick description of our process, how it relates to a client</li>
+                                        <li>Testimonials</li>
+                                        <li>About Us with photo</li>
+                                    </ul>
+                                    <li><h4>Prototype 2: Process Oriented</h4></li>
+                                        <ul>
+                                        <li>Shows how we work and what we value</li>
+                                        <li>Content rich interior pages</li>
+                                        <li>Lots of process photos</li>
+                                        </ul>
+                                    <li><h4>Prototype 3: Goal Oriented</h4></li>
+                                        <ul>
+                                        <li>Animated header cycling through "Build and Scale Software, Solve Complex Problems, Reach Your Goals"</li>
+                                        <li>Highlights 4 projects, with project pages</li>
+                                        <li>Graphs/data heavy</li>
+                                        <li>Company bio in footer</li>
+                                        </ul>
+                                </ol>
+
+                            <h3>Day 4: Prototype</h3>
+                            <p>I made <a href="https://sfroehner.github.io/Round1-a/" target="blank">Prototype 1</a> with Bootstrap and Typeform and <a href="https://invis.io/RV7BQNKKQ" target="blank">Prototype 2</a> and <a href="https://invis.io/UN79DZLCB" target="blank">Prototype 3</a> with InVision.</p>
+
+                            <h3>Day 5 and Beyond: Testing</h3>
+                            <p>I wrote a screener for UserTesting and ran several user tests for the 3 prototypes. This round rigidly explored how we should present our point of view.</p> 
+                                
+                            <h4>Results:</h4>
+                                <h5>Prototype 1: Experimental Form</h5>
+                                    <ul>
+                                        <li>This was the only form that was clicked on and completed. Contact form on top of the homepage was very unique, surprising, and memorable.</li>
+                                        <li>Implementation of the form was confusing. I used a free version of Typeform, and their branding after submission confused users and caused them to leave the site. Also, the services dropdown in the form was not as clear as it needs to be.</li>
+                                        <li>Ambiguous about our services.</li>
+                                        <li>Blog wasn't very clear about our personal ideas.</li>
+                                    </ul>
+                                <h5>Prototype 2: Process Oriented</h5>
+                                    <ul>
+                                        <li>Showing our step by step process makes the company seem very approachable and "human"</li>
+                                        <li>Photo heavy style seems consumer, not business, facing.</li>
+                                        <li>Testimonials give more credibility</li>
+                                        <li>Ambiguous about who we are and what we did for clients.</li>
+                                        </ul>    
+                                <h5>Prototype 3: Goal Oriented</h5>
+                                    <ul>
+                                        <li>Including shots of our work made our intended audience/niche market very clear.</li>
+                                        <li>There was some ambiguity about our services. Project names were also unclear (mistook them for companies we worked for).</li>
+                                        <li>Project pages need more content, like testimonials, screenshots, and our process.</li>
+                                        <li>Browsing experience was disjointed. Users wanted to see a traditional "Services" and "About" pages.</li>
+                                    </ul>
+
+                                <h4>Overall:</h4>
+                                    <ul>
+                                        <li>Credibility on all 3 was low. We need more content.</li>
+                                        <li>Need an About page</li>
+                                    <ul>
+                                        <li>People want a personal connection to the team</li>
+                                        <li>Show the team's faces</li>
+                                        <li>Explain company name</li>
+                                    </ul>
+                                        <li>Could benefit from a more traditional navigation, with clear Services and About Us links.</li>
+                                        <li>Link testimonials to actual products or companies.</li>
+                                        <li>All 3 prototypes had positive reactions. Users basically wanted to see all this content when searching for an agency.</li>
+                                        <li>The Bootstrap prototype tested better than the InVision prototypes.</li>
+                                    </ul>
+                                
+                                <h4>Round 2:</h4> 
+                                    <p>I took the findings from Round 1 and I used Bootstrap to make a <a href="http://beta.fivesixtwo.com/" target="blank">larger website</a> that included the effective parts from each prototype. I wrote 4 case studies, talking to developers and the CEO as needed. For this round, I also had users review two competitor sites. </p>
+                                    <h5>Findings:</h5>
+                                        <ul>
+                                            <li>Users spend most of their time on the homepage.</li>
+                                            <li>All claims and testimonials need sources.</li>
+                                            <li>Consider more transparency in pricing or consultation fees. This was one of our competitor's biggest strengths. Users felt more comfortable knowing the price. This could increase quality leads. </li>
+                                            <li>Keeping the site updated regularly and having social media links add authenticity. </li>
+                                            <li>Users would also Google companies too see if anyone has posted anything about them on social media or message boards.</li>
+                                            <li>The form from the first prototype is still memorable as "really clever" and a surprising "human touch." It is now on a Contact page and we have a paid version of Typeform so users stay on the site and are no longer confused. </li>
+                                            <li>FiveSixTwo "branding" (it was not branded) is too generic. </li>
+                                        </ul>
+
+                                <h3>Next Steps: </h3>
+                                <p>We want more user tests on this round. While we are testing I will work with a developer to make the Bootstrap prototype a "real" website. Now that we are close to satisfied with the content, I will work on the branding. </p>
+                            <ul class="list-inline">
+                                <li><b>Date:</b> 2017</li>
+                                <li><b>Client:</b> FiveSixTwo, Inc.</li>
+                                <li><b>Categories:</b> UX/UI, Interaction Design, Prototyping, User Testing</li>
+                                </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+<!--Footer adapted from http://codepen.io/eskside_design/pen/RNemLB-->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <svg class="svg--source" width="0" height="0" aria-hidden="true">
+                    
+                    <symbol id="svg--linkedin" viewbox="0 -10 20 40">
+                        <path d="M2.826,5.186H2.801c-1.363,0-2.234-0.934-2.234-2.101c0-1.191,0.908-2.101,2.285-2.101 c1.387,0,2.248,0.909,2.26,2.101C5.123,4.252,4.238,5.186,2.826,5.186z M4.854,19.016H0.799V6.844h4.055V19.016z M19.434,19.016 h-4.041v-6.51c0-1.634-0.59-2.751-2.051-2.751c-1.119,0-1.781,0.749-2.076,1.474c-0.1,0.27-0.137,0.626-0.137,0.994v6.793H7.088 c0.051-11.03,0-12.172,0-12.172h4.041v1.769h-0.023c0.527-0.835,1.486-2.052,3.672-2.052c2.666,0,4.656,1.744,4.656,5.479V19.016z" 
+                        />
+                    </symbol>
+                    
+                    <symbol id="svg--instagram" viewbox="0 -10 20 40">
+                        <path d="M19.434,17.014c0,1.327-1.094,2.42-2.42,2.42H2.986c-1.327,0-2.42-1.093-2.42-2.42V2.986 c0-1.327,1.093-2.42,2.42-2.42h14.027c1.326,0,2.42,1.093,2.42,2.42V17.014z M17.297,8.551h-1.658 c0.159,0.503,0.245,1.056,0.245,1.609c0,3.145-2.629,5.687-5.872,5.687c-3.23,0-5.859-2.542-5.859-5.687 c0-0.553,0.086-1.105,0.246-1.609H2.667v7.959c0,0.417,0.332,0.749,0.749,0.749h13.131c0.418,0,0.75-0.332,0.75-0.749V8.551z M10.012,6.291c-2.088,0-3.783,1.646-3.783,3.673c0,2.026,1.695,3.672,3.783,3.672c2.101,0,3.795-1.646,3.795-3.672 C13.808,7.937,12.113,6.291,10.012,6.291z M17.297,3.515c0-0.467-0.381-0.848-0.848-0.848h-2.138c-0.467,0-0.848,0.381-0.848,0.848 v2.026c0,0.467,0.381,0.848,0.848,0.848h2.138c0.467,0,0.848-0.381,0.848-0.848V3.515z"
+                        />
+                    </symbol>
+
+                    <symbol id="svg--tumblr" viewbox="0 -10 20 40">
+                        <path d="M15.745,18.821c-0.36,0.541-1.995,1.153-3.462,1.178c-4.362,0.072-6.009-3.101-6.009-5.336V8.125h-2.02 V5.541c3.028-1.094,3.762-3.834,3.931-5.396C8.197,0.048,8.281,0,8.329,0c0,0,0.048,0,2.933,0v5.096h4.003v3.029H11.25v6.225 c0,0.842,0.312,2.008,1.924,1.972c0.527-0.013,1.237-0.168,1.609-0.349L15.745,18.821z" 
+                        />
+                    </symbol>
+  
+                </svg>
+
+
+                    <ul class="list-inline">
+                        
+                        <li>
+                            <a href="https://www.linkedin.com/pub/stephanie-froehner/45/826/315" target="_blank" class="share linkedin">
+                                <svg role="presentation" class="svg--icon">
+                                    <use xlink:href="#svg--linkedin" />
+                                </svg>
+                            </a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://instagram.com/froehner/" target="_blank" class="share instagram">
+                                <svg role="presentation" class="svg--icon">
+                                    <use xlink:href="#svg--instagram" />
+                                </svg>
+                            </a>
+                        </li>
+
+                        <li>                    
+                            <a href="http://frey-ner.tumblr.com/" target="_blank" class="share tumblr">
+                                <svg role="presentation" class="svg--icon">
+                                    <use xlink:href="#svg--tumblr" />
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </footer>
+
+    
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script async src="js/jqBootstrapValidation.js"></script>
+    <script async src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+
+</body>
+
+</html>
