@@ -1,0 +1,116 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Stephanie Froehner's Portfolio",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://www.stephaniefroehner.com/",
+    "short_name": "S Froehner",
+    "theme_color": "transparent",
+    "description": "Portfolio of Stephanie Froehner",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16"
+        },
+        {
+            "src": "/images/0db316f7-dd38-8188-e6e4-664d60cc3b37.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/62b355a5-f026-ae78-8712-3b4e7008c72d.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9999394e-8bf5-04d1-20e2-c0b7fbb2a31c.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a67c3093-16fd-6293-fc87-31bcc9df69a0.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f2eacc3e-7d4e-a38e-c558-905eea46e88a.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3ab37eb3-227f-e5c1-7a90-10ba3d35c664.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/580c4442-fbcc-47f4-db8d-e150426cdd99.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e3a28c21-fff2-028f-8b51-05af5a3b36d7.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d51fd12c-97ff-c923-765b-5739eda83f6e.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/503dbda0-be67-be81-7bd5-d9d45eb3569c.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5d0359b1-efa6-3a62-83f2-041bcdad3809.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f40ca9f2-73c6-30b9-93ad-334a7a26b970.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/63b75a07-204d-6638-d25c-3a9dfd69acf8.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/80d68232-21e9-29eb-0951-dc229a58d2f3.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/24c10597-84a2-9219-4dd4-5ee24af2f59b.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2236324f-25b2-286b-6bd3-9a246293616b.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b28739ba-4d07-79f5-ce4d-8ed124d09add.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/32d4dc01-e8c2-04b7-9fe5-50b64854baf2.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/873c0c76-95b1-188f-3abf-ca46f355b212.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
